@@ -1,4 +1,4 @@
-# PowerBI Nike
+# PowerBI Dashboard
 
 ## Overview
 
@@ -29,7 +29,7 @@ To use this project, follow these steps:
 
 ## Deployed Link
 
-This project is deployed at: [https://mayankjonwal02.github.io/PowerBI_Nike/](https://mayankjonwal02.github.io/PowerBI_Nike/)
+This project is deployed at: [[https://oneshot07git.github.io/Dashbord-Earthqueake/](https://oneshot07git.github.io/Dashbord-Earthqueake/)]
 
 ## Contributing
 
@@ -42,11 +42,7 @@ Contributions are welcome! If you would like to contribute to this project, plea
 5. Push to the branch (`git push origin feature/<feature_name>`).
 6. Create a new Pull Request.
 
-## Exmaples
+## Home Screen
 
+![Screenshot (126)](https://github.com/ONESHOT07GIT/Dashbord-Earthqueake/assets/151626580/b49d062e-74a5-4e78-9e38-fd4f20b9ea8c)
 
-![MINIPROJECT_DV_16_page-0001](https://github.com/mayankjonwal02/PowerBI_Nike/assets/151626580/014d941e-fa97-4c6e-9fae-3c9bafb9e84d)
-![MINIPROJECT_DV_16_page-0002](https://github.com/mayankjonwal02/PowerBI_Nike/assets/151626580/b19b2452-3e9b-4295-ac8c-c7ac8022949b)
-![MINIPROJECT_DV_16_page-0003](https://github.com/mayankjonwal02/PowerBI_Nike/assets/151626580/5c666ee8-be29-4890-afea-62e76be624c8)
-![MINIPROJECT_DV_16_page-0004](https://github.com/mayankjonwal02/PowerBI_Nike/assets/151626580/bddd696a-dee6-4133-822a-36d64997376c)
-![MINIPROJECT_DV_16_page-0005](https://github.com/mayankjonwal02/PowerBI_Nike/assets/151626580/87acc7e5-226c-49fb-ade6-89d2cc5e5735)
